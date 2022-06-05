@@ -22,5 +22,6 @@ An online bidding system inspired from real proxibod.com which is an online bidd
 ## Tech Stack
 
 **Client:** Spring boot, JSP, Spring Security, Task Scheduler and WebSocket
+
 **Server:** Apache Tomcat, MySQL
 
